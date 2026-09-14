@@ -1,3 +1,2 @@
 # Test
-Nothing
-Hello this is Test.
+It is my first ever GitHub project.
